@@ -1,4 +1,4 @@
-Paper Name - 
+
 "SR-AttNet: An interpretable Stretch–Relax attention based deep neuralnetwork for polyp segmentation in colonoscopy images"
 
 Test Instances: gives the image IDs for the test cases (the rest are the train cases)
